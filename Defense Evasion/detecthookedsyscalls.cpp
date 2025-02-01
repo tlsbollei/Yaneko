@@ -2,6 +2,7 @@
 #include <Windows.h>
 #include <psapi.h>
 
+//code from here - > https://github.com/tlsbollei/HookDetector
 bool isSyscall(const char* funcName) {
     return (funcName[0] == 'N' && funcName[1] == 't') || (funcName[0] == 'Z' && funcName[1] == 'w');
 }
