@@ -37,5 +37,7 @@ If you have trouble understanding this repo, how to use it properly, please cont
 t.me/boleii655
 I am available on most platforms, but I prefer TG as my go-to means of communication
 
-
-
+> [!Note]
+> One last thing before I cut the chase - In some of the files I am going to include header files pulled from VX-API - https://github.com/vxunderground/VX-API/ , namely the win32helper.h , internal.h , functiondeclaration.h
+> 
+> These header files are here to define and declare functions, macros, internal definitions and constants so as the code is more readable and re-usable.
