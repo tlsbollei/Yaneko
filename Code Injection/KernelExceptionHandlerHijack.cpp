@@ -1,4 +1,4 @@
-#include "Win32Helper.h"
+#include "../../Include/win32helper.h"
 // quite the sophisticated code we have here today :D this injector works by hijacking the kernel exception handler
 // we manipulate with PPIDs in order to attach and deattach processes from the console in order to retrieve the console handle
 // with this console handle we can therefore trigger an exception
