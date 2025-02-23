@@ -38,7 +38,7 @@ The difficulty, complexity and effectiveness of certain techniques in this repos
 
 ## 🎨 Prerequisites
 
-Familiarize yourself with *C, C++ and Assembly*. 
+Familiarize yourself with **C, C++ ,** and a little **Powershell and Assembly**. 
 
 ## ☎️ Contact
 
