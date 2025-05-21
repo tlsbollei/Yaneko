@@ -51,7 +51,4 @@ I am available on most platforms, but I prefer TG as my go-to means of communica
 > These header files are here to define and declare functions, macros, internal definitions and constants so as the code is more readable and re-usable.
 
 
-> GitHub [tlsbollei](https://github.com/tlsbollei) &nbsp;&middot;&nbsp;
-> Instagram [0fa102](https://www.instagram.com/0x0fa/)
-> Discord [0fa](https://discord.com/channels/@me)
-> Telegram [boleii655](https://t.me/boleii655)
+
